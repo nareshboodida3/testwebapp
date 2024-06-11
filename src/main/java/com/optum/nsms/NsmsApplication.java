@@ -1,13 +1,13 @@
-package com.nsg;
+package com.optum.nsms;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TestwebappApplication {
+public class NsmsApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(TestwebappApplication.class, args);
+		SpringApplication.run(NsmsApplication.class, args);
 	}
 
 }
